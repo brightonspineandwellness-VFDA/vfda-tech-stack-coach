@@ -1,0 +1,7 @@
+{
+  "name": "vfda-tech-stack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
